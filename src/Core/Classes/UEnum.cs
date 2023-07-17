@@ -36,8 +36,8 @@ namespace UELib.Core
                 uint unknownEnumFlags = _Buffer.ReadUInt32();
                 Record(nameof(unknownEnumFlags), unknownEnumFlags);
             }
-        }
 #endif
+        }
 
         #endregion
     }
