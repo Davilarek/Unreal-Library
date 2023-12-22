@@ -2,7 +2,7 @@ using UELib.Core;
 
 namespace UELib.Engine
 {
-    [UnrealRegisterClass]
+    // [UnrealRegisterClass]
     public class UModel : UObject
     {
         public UModel()
